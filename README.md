@@ -1,4 +1,4 @@
-2. Hafta Alışveriş Uygulaması Demosu (Flutter)
+2. Hafta Alışveriş Uygulaması Demosu : Mobil Mağaza App (Flutter)
 
 Bu proje, Flutter kullanılarak geliştirilmiş dinamik ve modern bir e-ticaret mobil katalog uygulamasıdır.
 
